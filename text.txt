@@ -1,0 +1,15 @@
+client_id=aab9a99c2497f47699df37632aa0583e915619a99eabaa68eabdc0ad898ce279
+&redirect_uri=https%3A%2F%2Fsasappdev.herokuapp.com%2Fuser%2Foauth2
+&response_type=code
+&scope=public+read_orders+write_orders+read_products+write_products+read_integration_config+write_integration_config+read_user+write_user+read_webhook+write_webhook+read_warehouses+write_warehouses
+code=fd9f390bc6cc7b22c2d4c265fa92299c04138369a13a9afe301dade7bdb83d4c
+
+
+
+
+
+
+
+
+
+
